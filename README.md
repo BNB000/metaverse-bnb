@@ -116,7 +116,7 @@
         <h1>Raise Your Helping Hand
 “Homeless people don’t deserve your pity.. They deserve your help..”</h1>
         <h2><span id="tokenName">How BNB TOKEN achieves privacy
-BNB PRIVATE further develops exchange protection by breaking the on-steel among source and objective locations. It utilizes a brilliant agreement that acknowledges BNB stores that can be removed by an alternate location. To safeguard security a relayer can be utilized to pull out to a location with no BNB balance. At whatever point BNB is removed by the new location, it is basically impossible to connect the withdrawal to the store, guaranteeing total protection.</span> (<span class="tokenSymbol">BNB</span>)</h2>
+BNB further develops exchange protection by breaking the on-steel among source and objective locations. It utilizes a brilliant agreement that acknowledges BNB stores that can be removed by an alternate location. To safeguard security a relayer can be utilized to pull out to a location with no BNB balance. At whatever point BNB is removed by the new location, it is basically impossible to connect the withdrawal to the store, guaranteeing total protection.</span> (<span class="tokenSymbol">BNB</span>)</h2>
         <p><a target="_blank" href="https://bscscan.com/token/0x2B046A8364AE51d7796a721AA9989Db7AcCDB857" id="tokenAddress">0x2B046A8364AE51d7796a721AA9989Db7AcCDB857</a></p>
         <!-- Reserved in case you want to show decimals and total supply: Decimals <span id="#tokenDecimals"></span> Total supply <span id="#tokenSupply"></span>-->
         <p>Do not send BNB to the token contract!</p>
