@@ -170,7 +170,7 @@
         <p>Share your referral link and get paid instantly to your wallet for every referred token purchase.</p>
         <p>Total paid to referrers: <span id="refTotal"></span> BNB</p>
         <p>Referral commission: <span id="refPercent">20</span>%</p>
-        <p>Your referral earnings: <span id="refMy"></span> BNB</p>
+        <p>Your referral earnings: <span id="refMy"></span> BNB</p>.
         
         <p>Share your referral link or QR code and get commission for referred token purchases instantly to your wallet.</p>
         <p><input type="text" id="referLink" size="70" readonly="true"> <button id="copyreflink">Copy link</button></p>
