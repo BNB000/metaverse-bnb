@@ -7,7 +7,9 @@
     <meta name="description" content="Token sale page">
     
 
-    <title>Token sale</title>
+    <title>Raise Your Helping Hand
+“Homeless people don’t deserve your pity.. They deserve your help..”
+–Arm Mercy World–</title>
    
     <script>
         var test = false; // False if contracts are on Mainnet
