@@ -112,9 +112,7 @@
     </div>
     
     <div style="text-align: center">
-        <h1>Raise Your Helping Hand
-“Homeless people don’t deserve your pity.. They deserve your help..”
-–Arm Mercy World–</h1>
+        <h1>Token info</h1>
         <h2><span id="tokenName">BNB Token</span> (<span class="tokenSymbol">BNB</span>)</h2>
         <p><a target="_blank" href="https://bscscan.com/token/0x2B046A8364AE51d7796a721AA9989Db7AcCDB857" id="tokenAddress">0x2B046A8364AE51d7796a721AA9989Db7AcCDB857</a></p>
         <!-- Reserved in case you want to show decimals and total supply: Decimals <span id="#tokenDecimals"></span> Total supply <span id="#tokenSupply"></span>-->
